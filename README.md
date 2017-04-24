@@ -31,3 +31,5 @@ referencias:
 
 https://www.ime.usp.br/~gold/cursos/2002/mac2301/ep2/ep2/node3.html
 https://www.infopedia.pt/dicionarios/lingua-portuguesa/multiprograma%C3%A7%C3%A3o
+https://pt.slideshare.net/FabioMouraPereira/programao-concorrente-introduo
+
